@@ -18,7 +18,7 @@ Think of it as your smart first officer, always on duty, never off course.
 - [Crew & Credits](#-credits)
 
 ---
-## Overview
+## 🙌🏻 Overview
 Pilots shouldn’t need to dig through 300-page CBAs mid-duty.
 Our solution helps flight crew query union rules, monitor flight hours, and flag compliance risks, all in plain English.
 
@@ -28,7 +28,7 @@ Our solution helps flight crew query union rules, monitor flight hours, and flag
 
 ---
 
-## Features
+## ⛅ Features
 
 ✅ Natural Language CBA Queries
 ✅ Login/Signup Flow with OAuth
@@ -50,7 +50,7 @@ Our solution helps flight crew query union rules, monitor flight hours, and flag
 |-- README.md                       # You be readin’ it now, mate
 ```
 
-## Relational Schema and EER diagram
+## 🌏 Relational Schema and EER diagram
 ![relational_diagram](https://github.com/user-attachments/assets/d70eace4-7791-42aa-913b-84fc7e74a666)
 ![er diag](https://github.com/user-attachments/assets/06013461-c637-4206-a2b3-a79eb272980b)
 
@@ -74,7 +74,7 @@ Our solution helps flight crew query union rules, monitor flight hours, and flag
 
 ---
 
-## Set up instructions 
+## 🏢 Set up instructions 
 
 **Step 1: Upload Project Files**
 Begin by uploading the required backend source code files to your local system or server. The raw text data file used to train the chatbot and app.py file, which contains the Streamlit-based GUI code for the chatbot interface.
