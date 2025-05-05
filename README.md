@@ -95,19 +95,7 @@ Run or preview the Figma prototype. You should now be able to, Interact with the
 
 Here is the [Figma UI Demo](https://www.figma.com/proto/wVMpGCL0WFhtL41Fe2VtGa/BIG_UIDemo_Team2?node-id=0-1&t=B9hqEcNErn9PZ8hc-1) 
 
-Explore the pilot flow, from login to dashboard to chatbot!
-
-Home Page:
-
 ![image](https://github.com/user-attachments/assets/a1147587-2baa-48cc-ab35-208366567c21)
-
-User Dashboard:
-
-![image](https://github.com/user-attachments/assets/d89bfa0a-c41b-4e37-b2b7-15f495cb77da)
-
-Chatbot Page:
-
-![image](https://github.com/user-attachments/assets/b4c22d76-745f-4b37-a65a-26b9a490fcba)
 
 ## ✅ Product Strengths & ⚠️ Current Limitations
 
